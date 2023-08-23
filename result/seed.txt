@@ -1,0 +1,134 @@
+#Seed
+
+"""
+pattern = "example1"
+shapeY = 10
+pos = (6,4)
+T = 15
+
+pattern = "blinker"
+shapeY = 9
+pos = (6,4)
+T = 30
+
+pattern = "four"
+shapeY = 9
+pos = (6,4)
+T = 10
+
+pattern = "five"
+shapeY = 18
+pos = (13,8)
+T = 20
+    
+pattern = "example2"
+shapeY = 10
+pos = (7,4)
+T = 15
+
+pattern = "stills"
+shapeY = 24
+pos = (8,2)
+T = 4
+    
+pattern = "oscillos"
+shapeY = 16
+pos = (4,2)
+T = 30
+    
+pattern = "beehiveplus"
+shapeY = 20
+pos = (15,7)
+T = 30
+
+pattern = "stairs6"
+shapeY = 28
+pos = (22,13)
+T = 100
+
+pattern = "Rpento"
+shapeY = 100
+pos = (70,55)
+T = 1500
+
+pattern = "cthulhu"
+shapeY = 17
+pos = (9,2)
+T = 10
+    
+pattern = "exploder"
+shapeY = 20
+pos = (15,7)
+T = 100
+    
+pattern = "ten"
+shapeY = 15
+pos = (8,7)
+T = 100
+
+pattern = "104P177"
+shapeY = 70
+pos = (40,12)
+T = 1000
+    
+pattern = "spaceships"
+shapeY = 40
+pos = (60,9)
+T = 130
+    
+pattern = "canadagoose"
+shapeY = 50
+pos = (50,35)
+T = 150
+    
+pattern = "60P5H2V0"
+shapeY = 50
+pos = (3,16)
+T = 200
+    
+pattern = "puffer1"
+shapeY = 150
+pos = (5,65)
+T = 600
+
+pattern = "backrake3"
+shapeY = 200
+pos = (5,90)
+T = 500
+
+pattern = "linepuffer"
+shapeY = 300
+pos = (50,65)
+T = 800
+    
+pattern = "gosperglidergun"
+shapeY = 60
+pos = (5,5)
+T = 200
+
+pattern = "10cellinfinitegrowth"
+shapeY = 360
+pos = (400,300)
+T = 4000
+    
+pattern = "breeder1"
+shapeY = 1080
+pos = (10,400)
+T = 2500
+    
+pattern = "max"
+shapeY = 720
+pos = (640,360)
+T = 1000 
+    
+pattern = "p41660p5h2v0gun"
+shapeY = 1200
+pos = (500,100)
+T = 5000 # 1000
+    
+pattern = "otcametapixeloff"
+shapeY = 2200
+pos = (800,50)
+T = 1000  
+
+"""
